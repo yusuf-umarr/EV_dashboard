@@ -1,9 +1,6 @@
-# Car HMI Dashboard UI using Flutter
+# Ev Dashboard UI using Flutter
 
-## [Watch it on YouTube](https://youtu.be/7ND8CzsYrXk)
 
-Do you know? Due to Flutter's embedded device support, you can even build a DASHBOARD for a car 🚗.
+With Flutter, you can build an embedded app for electric vehicle dashboard.
 
-### Car HMI
-
-![App UI](/ui.png)
+credit to "The flutter way"
